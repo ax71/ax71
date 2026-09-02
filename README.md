@@ -1,10 +1,8 @@
-# I Kadek Buktiasa
+# Hi, I'm Kadek Buktiasa 👋
 
-**Web & Mobile Developer · Bali, Indonesia**
+**Informatics Student | Web & Mobile Developer**
 
-## About
-
-Informatics Engineering student and developer building web and mobile applications, with a focus on scalable, maintainable software.
+I'm a developer building web and mobile applications, with a focus on creating scalable and maintainable software.
 
 Currently working with **React Native, Next.js, TypeScript, and backend development**, while deepening my understanding of **Clean Architecture** and software engineering practices.
 
@@ -22,6 +20,12 @@ Currently working with **React Native, Next.js, TypeScript, and backend developm
 **Web Developer Intern** — SaranaTech
 
 Building web applications with `Next.js` · `TypeScript` · `Tailwind CSS` · `Strapi` · `Supabase` · `REST API`
+
+**Web Developer — Motor Rental Website**
+
+- Built a responsive motor rental website using **Next.js**.
+- Implemented a booking flow that redirects customers to **WhatsApp** for reservations and communication.
+- Focused on responsive UI, user experience, and simple booking interactions.
 
 ## Currently Learning
 
